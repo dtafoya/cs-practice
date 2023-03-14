@@ -1,1 +1,1 @@
-# cs-practice
+repository for computer science practice projects
